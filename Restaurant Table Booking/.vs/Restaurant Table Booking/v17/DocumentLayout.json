@@ -1,0 +1,853 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\Restaurant Table Booking (3)\\Restaurant Table Booking\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{ED4DBACE-AF98-43D9-B19D-BF541B423648}|Restaurant Table Booking Web Api\\Restaurant Table Booking Web Api.csproj|d:\\restaurant table booking (3)\\restaurant table booking\\restaurant table booking web api\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{ED4DBACE-AF98-43D9-B19D-BF541B423648}|Restaurant Table Booking Web Api\\Restaurant Table Booking Web Api.csproj|solutionrelative:restaurant table booking web api\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DD6603C0-36E4-4A29-B89C-73542FAFC399}|InfrastructureLayer\\Restaurant Table Booking.Infrastructure.csproj|d:\\restaurant table booking (3)\\restaurant table booking\\infrastructurelayer\\authservice\\authrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DD6603C0-36E4-4A29-B89C-73542FAFC399}|InfrastructureLayer\\Restaurant Table Booking.Infrastructure.csproj|solutionrelative:infrastructurelayer\\authservice\\authrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{05DD5A9B-FBBA-411D-B4B0-116FA1915C3D}|ApplicationLayer\\Restaurant Table Booking.Application.csproj|d:\\restaurant table booking (3)\\restaurant table booking\\applicationlayer\\dtos\\authdto\\responsedtos\\loginresponsedto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{05DD5A9B-FBBA-411D-B4B0-116FA1915C3D}|ApplicationLayer\\Restaurant Table Booking.Application.csproj|solutionrelative:applicationlayer\\dtos\\authdto\\responsedtos\\loginresponsedto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{ED4DBACE-AF98-43D9-B19D-BF541B423648}|Restaurant Table Booking Web Api\\Restaurant Table Booking Web Api.csproj|d:\\restaurant table booking (3)\\restaurant table booking\\restaurant table booking web api\\controllers\\authcontroller\\authcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{ED4DBACE-AF98-43D9-B19D-BF541B423648}|Restaurant Table Booking Web Api\\Restaurant Table Booking Web Api.csproj|solutionrelative:restaurant table booking web api\\controllers\\authcontroller\\authcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{05DD5A9B-FBBA-411D-B4B0-116FA1915C3D}|ApplicationLayer\\Restaurant Table Booking.Application.csproj|d:\\restaurant table booking (3)\\restaurant table booking\\applicationlayer\\services\\iauthservice\\iauthrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{05DD5A9B-FBBA-411D-B4B0-116FA1915C3D}|ApplicationLayer\\Restaurant Table Booking.Application.csproj|solutionrelative:applicationlayer\\services\\iauthservice\\iauthrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{05DD5A9B-FBBA-411D-B4B0-116FA1915C3D}|ApplicationLayer\\Restaurant Table Booking.Application.csproj|d:\\restaurant table booking (3)\\restaurant table booking\\applicationlayer\\dtos\\authdto\\requestdtos\\registerrequestdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{05DD5A9B-FBBA-411D-B4B0-116FA1915C3D}|ApplicationLayer\\Restaurant Table Booking.Application.csproj|solutionrelative:applicationlayer\\dtos\\authdto\\requestdtos\\registerrequestdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{61AED39F-58E9-4373-AFB8-49FD53E13B33}|DomainLayer\\Restaurant Table Booking.Domain.csproj|d:\\restaurant table booking (3)\\restaurant table booking\\domainlayer\\entities\\identitydbuser\\applicationuser.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{61AED39F-58E9-4373-AFB8-49FD53E13B33}|DomainLayer\\Restaurant Table Booking.Domain.csproj|solutionrelative:domainlayer\\entities\\identitydbuser\\applicationuser.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{ED4DBACE-AF98-43D9-B19D-BF541B423648}|Restaurant Table Booking Web Api\\Restaurant Table Booking Web Api.csproj|d:\\restaurant table booking (3)\\restaurant table booking\\restaurant table booking web api\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{ED4DBACE-AF98-43D9-B19D-BF541B423648}|Restaurant Table Booking Web Api\\Restaurant Table Booking Web Api.csproj|solutionrelative:restaurant table booking web api\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DD6603C0-36E4-4A29-B89C-73542FAFC399}|InfrastructureLayer\\Restaurant Table Booking.Infrastructure.csproj|d:\\restaurant table booking (3)\\restaurant table booking\\infrastructurelayer\\data\\authdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DD6603C0-36E4-4A29-B89C-73542FAFC399}|InfrastructureLayer\\Restaurant Table Booking.Infrastructure.csproj|solutionrelative:infrastructurelayer\\data\\authdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{ED4DBACE-AF98-43D9-B19D-BF541B423648}|Restaurant Table Booking Web Api\\Restaurant Table Booking Web Api.csproj|d:\\restaurant table booking (3)\\restaurant table booking\\restaurant table booking web api\\controllers\\tablebookingcontroller\\tablebookingcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{ED4DBACE-AF98-43D9-B19D-BF541B423648}|Restaurant Table Booking Web Api\\Restaurant Table Booking Web Api.csproj|solutionrelative:restaurant table booking web api\\controllers\\tablebookingcontroller\\tablebookingcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{05DD5A9B-FBBA-411D-B4B0-116FA1915C3D}|ApplicationLayer\\Restaurant Table Booking.Application.csproj|d:\\restaurant table booking (3)\\restaurant table booking\\applicationlayer\\igeneric\\igenericrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{05DD5A9B-FBBA-411D-B4B0-116FA1915C3D}|ApplicationLayer\\Restaurant Table Booking.Application.csproj|solutionrelative:applicationlayer\\igeneric\\igenericrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{05DD5A9B-FBBA-411D-B4B0-116FA1915C3D}|ApplicationLayer\\Restaurant Table Booking.Application.csproj|d:\\restaurant table booking (3)\\restaurant table booking\\applicationlayer\\features\\tablebookingfeature\\queries\\getall\\getallbookingqueryhandler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{05DD5A9B-FBBA-411D-B4B0-116FA1915C3D}|ApplicationLayer\\Restaurant Table Booking.Application.csproj|solutionrelative:applicationlayer\\features\\tablebookingfeature\\queries\\getall\\getallbookingqueryhandler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{05DD5A9B-FBBA-411D-B4B0-116FA1915C3D}|ApplicationLayer\\Restaurant Table Booking.Application.csproj|d:\\restaurant table booking (3)\\restaurant table booking\\applicationlayer\\features\\tablebookingfeature\\queries\\getall\\getallbookingquery.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{05DD5A9B-FBBA-411D-B4B0-116FA1915C3D}|ApplicationLayer\\Restaurant Table Booking.Application.csproj|solutionrelative:applicationlayer\\features\\tablebookingfeature\\queries\\getall\\getallbookingquery.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{05DD5A9B-FBBA-411D-B4B0-116FA1915C3D}|ApplicationLayer\\Restaurant Table Booking.Application.csproj|d:\\restaurant table booking (3)\\restaurant table booking\\applicationlayer\\mappings\\automapperprofiles.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{05DD5A9B-FBBA-411D-B4B0-116FA1915C3D}|ApplicationLayer\\Restaurant Table Booking.Application.csproj|solutionrelative:applicationlayer\\mappings\\automapperprofiles.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{05DD5A9B-FBBA-411D-B4B0-116FA1915C3D}|ApplicationLayer\\Restaurant Table Booking.Application.csproj|d:\\restaurant table booking (3)\\restaurant table booking\\applicationlayer\\services\\itablebookingservice\\itablebookingrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{05DD5A9B-FBBA-411D-B4B0-116FA1915C3D}|ApplicationLayer\\Restaurant Table Booking.Application.csproj|solutionrelative:applicationlayer\\services\\itablebookingservice\\itablebookingrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{05DD5A9B-FBBA-411D-B4B0-116FA1915C3D}|ApplicationLayer\\Restaurant Table Booking.Application.csproj|d:\\restaurant table booking (3)\\restaurant table booking\\applicationlayer\\iunitofwork\\iunitofworkrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{05DD5A9B-FBBA-411D-B4B0-116FA1915C3D}|ApplicationLayer\\Restaurant Table Booking.Application.csproj|solutionrelative:applicationlayer\\iunitofwork\\iunitofworkrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{05DD5A9B-FBBA-411D-B4B0-116FA1915C3D}|ApplicationLayer\\Restaurant Table Booking.Application.csproj|d:\\restaurant table booking (3)\\restaurant table booking\\applicationlayer\\features\\tablebookingfeature\\commands\\create\\addbookingcommandhandler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{05DD5A9B-FBBA-411D-B4B0-116FA1915C3D}|ApplicationLayer\\Restaurant Table Booking.Application.csproj|solutionrelative:applicationlayer\\features\\tablebookingfeature\\commands\\create\\addbookingcommandhandler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{05DD5A9B-FBBA-411D-B4B0-116FA1915C3D}|ApplicationLayer\\Restaurant Table Booking.Application.csproj|d:\\restaurant table booking (3)\\restaurant table booking\\applicationlayer\\validations\\addbookingvalidator.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{05DD5A9B-FBBA-411D-B4B0-116FA1915C3D}|ApplicationLayer\\Restaurant Table Booking.Application.csproj|solutionrelative:applicationlayer\\validations\\addbookingvalidator.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DD6603C0-36E4-4A29-B89C-73542FAFC399}|InfrastructureLayer\\Restaurant Table Booking.Infrastructure.csproj|d:\\restaurant table booking (3)\\restaurant table booking\\infrastructurelayer\\genericrepository\\genericrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DD6603C0-36E4-4A29-B89C-73542FAFC399}|InfrastructureLayer\\Restaurant Table Booking.Infrastructure.csproj|solutionrelative:infrastructurelayer\\genericrepository\\genericrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DD6603C0-36E4-4A29-B89C-73542FAFC399}|InfrastructureLayer\\Restaurant Table Booking.Infrastructure.csproj|d:\\restaurant table booking (3)\\restaurant table booking\\infrastructurelayer\\repositories\\tablebookingrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DD6603C0-36E4-4A29-B89C-73542FAFC399}|InfrastructureLayer\\Restaurant Table Booking.Infrastructure.csproj|solutionrelative:infrastructurelayer\\repositories\\tablebookingrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DD6603C0-36E4-4A29-B89C-73542FAFC399}|InfrastructureLayer\\Restaurant Table Booking.Infrastructure.csproj|d:\\restaurant table booking (3)\\restaurant table booking\\infrastructurelayer\\unitofwork\\unitofworkrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DD6603C0-36E4-4A29-B89C-73542FAFC399}|InfrastructureLayer\\Restaurant Table Booking.Infrastructure.csproj|solutionrelative:infrastructurelayer\\unitofwork\\unitofworkrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{61AED39F-58E9-4373-AFB8-49FD53E13B33}|DomainLayer\\Restaurant Table Booking.Domain.csproj|d:\\restaurant table booking (3)\\restaurant table booking\\domainlayer\\entities\\tablebookingdbentity\\tablebookingdetails.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{61AED39F-58E9-4373-AFB8-49FD53E13B33}|DomainLayer\\Restaurant Table Booking.Domain.csproj|solutionrelative:domainlayer\\entities\\tablebookingdbentity\\tablebookingdetails.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{05DD5A9B-FBBA-411D-B4B0-116FA1915C3D}|ApplicationLayer\\Restaurant Table Booking.Application.csproj|d:\\restaurant table booking (3)\\restaurant table booking\\applicationlayer\\features\\tablebookingfeature\\commands\\create\\addbookingcommand.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{05DD5A9B-FBBA-411D-B4B0-116FA1915C3D}|ApplicationLayer\\Restaurant Table Booking.Application.csproj|solutionrelative:applicationlayer\\features\\tablebookingfeature\\commands\\create\\addbookingcommand.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{05DD5A9B-FBBA-411D-B4B0-116FA1915C3D}|ApplicationLayer\\Restaurant Table Booking.Application.csproj|d:\\restaurant table booking (3)\\restaurant table booking\\applicationlayer\\dtos\\tablebookingdtos\\requestdto\\updatetablebookingrequestdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{05DD5A9B-FBBA-411D-B4B0-116FA1915C3D}|ApplicationLayer\\Restaurant Table Booking.Application.csproj|solutionrelative:applicationlayer\\dtos\\tablebookingdtos\\requestdto\\updatetablebookingrequestdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{05DD5A9B-FBBA-411D-B4B0-116FA1915C3D}|ApplicationLayer\\Restaurant Table Booking.Application.csproj|d:\\restaurant table booking (3)\\restaurant table booking\\applicationlayer\\validations\\updatebookingvalidator.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{05DD5A9B-FBBA-411D-B4B0-116FA1915C3D}|ApplicationLayer\\Restaurant Table Booking.Application.csproj|solutionrelative:applicationlayer\\validations\\updatebookingvalidator.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{05DD5A9B-FBBA-411D-B4B0-116FA1915C3D}|ApplicationLayer\\Restaurant Table Booking.Application.csproj|d:\\restaurant table booking (3)\\restaurant table booking\\applicationlayer\\features\\tablebookingfeature\\commands\\delete\\deletebookingcommandhandler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{05DD5A9B-FBBA-411D-B4B0-116FA1915C3D}|ApplicationLayer\\Restaurant Table Booking.Application.csproj|solutionrelative:applicationlayer\\features\\tablebookingfeature\\commands\\delete\\deletebookingcommandhandler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{05DD5A9B-FBBA-411D-B4B0-116FA1915C3D}|ApplicationLayer\\Restaurant Table Booking.Application.csproj|d:\\restaurant table booking (3)\\restaurant table booking\\applicationlayer\\features\\tablebookingfeature\\commands\\update\\updatetablebookingcommandhandler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{05DD5A9B-FBBA-411D-B4B0-116FA1915C3D}|ApplicationLayer\\Restaurant Table Booking.Application.csproj|solutionrelative:applicationlayer\\features\\tablebookingfeature\\commands\\update\\updatetablebookingcommandhandler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{05DD5A9B-FBBA-411D-B4B0-116FA1915C3D}|ApplicationLayer\\Restaurant Table Booking.Application.csproj|d:\\restaurant table booking (3)\\restaurant table booking\\applicationlayer\\dtos\\tablebookingdtos\\requestdto\\addbookingrequestdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{05DD5A9B-FBBA-411D-B4B0-116FA1915C3D}|ApplicationLayer\\Restaurant Table Booking.Application.csproj|solutionrelative:applicationlayer\\dtos\\tablebookingdtos\\requestdto\\addbookingrequestdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2BA07587-070C-4480-B537-426D37867BAE}|Shared\\Restaurant Table Booking.Shared.csproj|d:\\restaurant table booking (3)\\restaurant table booking\\shared\\enums\\paymentmodeenum.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2BA07587-070C-4480-B537-426D37867BAE}|Shared\\Restaurant Table Booking.Shared.csproj|solutionrelative:shared\\enums\\paymentmodeenum.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2BA07587-070C-4480-B537-426D37867BAE}|Shared\\Restaurant Table Booking.Shared.csproj|d:\\restaurant table booking (3)\\restaurant table booking\\shared\\enums\\bookingtimeenum.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2BA07587-070C-4480-B537-426D37867BAE}|Shared\\Restaurant Table Booking.Shared.csproj|solutionrelative:shared\\enums\\bookingtimeenum.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2BA07587-070C-4480-B537-426D37867BAE}|Shared\\Restaurant Table Booking.Shared.csproj|d:\\restaurant table booking (3)\\restaurant table booking\\shared\\enums\\occassionenum.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2BA07587-070C-4480-B537-426D37867BAE}|Shared\\Restaurant Table Booking.Shared.csproj|solutionrelative:shared\\enums\\occassionenum.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{05DD5A9B-FBBA-411D-B4B0-116FA1915C3D}|ApplicationLayer\\Restaurant Table Booking.Application.csproj|d:\\restaurant table booking (3)\\restaurant table booking\\applicationlayer\\specification\\basespecification.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{05DD5A9B-FBBA-411D-B4B0-116FA1915C3D}|ApplicationLayer\\Restaurant Table Booking.Application.csproj|solutionrelative:applicationlayer\\specification\\basespecification.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{05DD5A9B-FBBA-411D-B4B0-116FA1915C3D}|ApplicationLayer\\Restaurant Table Booking.Application.csproj|d:\\restaurant table booking (3)\\restaurant table booking\\applicationlayer\\ispecification\\ispecification.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{05DD5A9B-FBBA-411D-B4B0-116FA1915C3D}|ApplicationLayer\\Restaurant Table Booking.Application.csproj|solutionrelative:applicationlayer\\ispecification\\ispecification.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{05DD5A9B-FBBA-411D-B4B0-116FA1915C3D}|ApplicationLayer\\Restaurant Table Booking.Application.csproj|d:\\restaurant table booking (3)\\restaurant table booking\\applicationlayer\\dtos\\tablebookingdtos\\responsedto\\getbookingresponsedto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{05DD5A9B-FBBA-411D-B4B0-116FA1915C3D}|ApplicationLayer\\Restaurant Table Booking.Application.csproj|solutionrelative:applicationlayer\\dtos\\tablebookingdtos\\responsedto\\getbookingresponsedto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{ED4DBACE-AF98-43D9-B19D-BF541B423648}|Restaurant Table Booking Web Api\\Restaurant Table Booking Web Api.csproj|d:\\restaurant table booking (3)\\restaurant table booking\\restaurant table booking web api\\restaurant table booking web api.http||{5703B403-55E7-4C63-8C88-A8F52C7A45C5}",
+      "RelativeMoniker": "D:0:0:{ED4DBACE-AF98-43D9-B19D-BF541B423648}|Restaurant Table Booking Web Api\\Restaurant Table Booking Web Api.csproj|solutionrelative:restaurant table booking web api\\restaurant table booking web api.http||{5703B403-55E7-4C63-8C88-A8F52C7A45C5}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{05DD5A9B-FBBA-411D-B4B0-116FA1915C3D}|ApplicationLayer\\Restaurant Table Booking.Application.csproj|d:\\restaurant table booking (3)\\restaurant table booking\\applicationlayer\\specification\\bookingbynamespec.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{05DD5A9B-FBBA-411D-B4B0-116FA1915C3D}|ApplicationLayer\\Restaurant Table Booking.Application.csproj|solutionrelative:applicationlayer\\specification\\bookingbynamespec.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DD6603C0-36E4-4A29-B89C-73542FAFC399}|InfrastructureLayer\\Restaurant Table Booking.Infrastructure.csproj|d:\\restaurant table booking (3)\\restaurant table booking\\infrastructurelayer\\specificationentities\\specificationevaluator.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DD6603C0-36E4-4A29-B89C-73542FAFC399}|InfrastructureLayer\\Restaurant Table Booking.Infrastructure.csproj|solutionrelative:infrastructurelayer\\specificationentities\\specificationevaluator.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{05DD5A9B-FBBA-411D-B4B0-116FA1915C3D}|ApplicationLayer\\Restaurant Table Booking.Application.csproj|d:\\restaurant table booking (3)\\restaurant table booking\\applicationlayer\\dtos\\authdto\\requestdtos\\queryrequestdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{05DD5A9B-FBBA-411D-B4B0-116FA1915C3D}|ApplicationLayer\\Restaurant Table Booking.Application.csproj|solutionrelative:applicationlayer\\dtos\\authdto\\requestdtos\\queryrequestdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{05DD5A9B-FBBA-411D-B4B0-116FA1915C3D}|ApplicationLayer\\Restaurant Table Booking.Application.csproj|d:\\restaurant table booking (3)\\restaurant table booking\\applicationlayer\\features\\tablebookingfeature\\commands\\update\\updatetablebookingcommand.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{05DD5A9B-FBBA-411D-B4B0-116FA1915C3D}|ApplicationLayer\\Restaurant Table Booking.Application.csproj|solutionrelative:applicationlayer\\features\\tablebookingfeature\\commands\\update\\updatetablebookingcommand.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2BA07587-070C-4480-B537-426D37867BAE}|Shared\\Restaurant Table Booking.Shared.csproj|d:\\restaurant table booking (3)\\restaurant table booking\\shared\\constants\\userconstants.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2BA07587-070C-4480-B537-426D37867BAE}|Shared\\Restaurant Table Booking.Shared.csproj|solutionrelative:shared\\constants\\userconstants.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DD6603C0-36E4-4A29-B89C-73542FAFC399}|InfrastructureLayer\\Restaurant Table Booking.Infrastructure.csproj|d:\\restaurant table booking (3)\\restaurant table booking\\infrastructurelayer\\mailsend\\mailsenderrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DD6603C0-36E4-4A29-B89C-73542FAFC399}|InfrastructureLayer\\Restaurant Table Booking.Infrastructure.csproj|solutionrelative:infrastructurelayer\\mailsend\\mailsenderrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{05DD5A9B-FBBA-411D-B4B0-116FA1915C3D}|ApplicationLayer\\Restaurant Table Booking.Application.csproj|d:\\restaurant table booking (3)\\restaurant table booking\\applicationlayer\\services\\imailsendservice\\imailsender.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{05DD5A9B-FBBA-411D-B4B0-116FA1915C3D}|ApplicationLayer\\Restaurant Table Booking.Application.csproj|solutionrelative:applicationlayer\\services\\imailsendservice\\imailsender.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{05DD5A9B-FBBA-411D-B4B0-116FA1915C3D}|ApplicationLayer\\Restaurant Table Booking.Application.csproj|d:\\restaurant table booking (3)\\restaurant table booking\\applicationlayer\\features\\tablebookingfeature\\commands\\delete\\deletebookingcommand.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{05DD5A9B-FBBA-411D-B4B0-116FA1915C3D}|ApplicationLayer\\Restaurant Table Booking.Application.csproj|solutionrelative:applicationlayer\\features\\tablebookingfeature\\commands\\delete\\deletebookingcommand.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{05DD5A9B-FBBA-411D-B4B0-116FA1915C3D}|ApplicationLayer\\Restaurant Table Booking.Application.csproj|d:\\restaurant table booking (3)\\restaurant table booking\\applicationlayer\\features\\tablebookingfeature\\queries\\getbyid\\gettablebookingdatabyidqueryhandler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{05DD5A9B-FBBA-411D-B4B0-116FA1915C3D}|ApplicationLayer\\Restaurant Table Booking.Application.csproj|solutionrelative:applicationlayer\\features\\tablebookingfeature\\queries\\getbyid\\gettablebookingdatabyidqueryhandler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{05DD5A9B-FBBA-411D-B4B0-116FA1915C3D}|ApplicationLayer\\Restaurant Table Booking.Application.csproj|d:\\restaurant table booking (3)\\restaurant table booking\\applicationlayer\\validations\\queryfiltervalidation.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{05DD5A9B-FBBA-411D-B4B0-116FA1915C3D}|ApplicationLayer\\Restaurant Table Booking.Application.csproj|solutionrelative:applicationlayer\\validations\\queryfiltervalidation.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{05DD5A9B-FBBA-411D-B4B0-116FA1915C3D}|ApplicationLayer\\Restaurant Table Booking.Application.csproj|d:\\restaurant table booking (3)\\restaurant table booking\\applicationlayer\\features\\tablebookingfeature\\queries\\getbyid\\gettablebookingdatabyidquery.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{05DD5A9B-FBBA-411D-B4B0-116FA1915C3D}|ApplicationLayer\\Restaurant Table Booking.Application.csproj|solutionrelative:applicationlayer\\features\\tablebookingfeature\\queries\\getbyid\\gettablebookingdatabyidquery.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{05DD5A9B-FBBA-411D-B4B0-116FA1915C3D}|ApplicationLayer\\Restaurant Table Booking.Application.csproj|d:\\restaurant table booking (3)\\restaurant table booking\\applicationlayer\\dtos\\authdto\\requestdtos\\refreshtokenrequestdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{05DD5A9B-FBBA-411D-B4B0-116FA1915C3D}|ApplicationLayer\\Restaurant Table Booking.Application.csproj|solutionrelative:applicationlayer\\dtos\\authdto\\requestdtos\\refreshtokenrequestdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{05DD5A9B-FBBA-411D-B4B0-116FA1915C3D}|ApplicationLayer\\Restaurant Table Booking.Application.csproj|d:\\restaurant table booking (3)\\restaurant table booking\\applicationlayer\\dtos\\authdto\\requestdtos\\logoutrequestdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{05DD5A9B-FBBA-411D-B4B0-116FA1915C3D}|ApplicationLayer\\Restaurant Table Booking.Application.csproj|solutionrelative:applicationlayer\\dtos\\authdto\\requestdtos\\logoutrequestdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{05DD5A9B-FBBA-411D-B4B0-116FA1915C3D}|ApplicationLayer\\Restaurant Table Booking.Application.csproj|d:\\restaurant table booking (3)\\restaurant table booking\\applicationlayer\\dtos\\authdto\\requestdtos\\loginrequestdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{05DD5A9B-FBBA-411D-B4B0-116FA1915C3D}|ApplicationLayer\\Restaurant Table Booking.Application.csproj|solutionrelative:applicationlayer\\dtos\\authdto\\requestdtos\\loginrequestdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{05DD5A9B-FBBA-411D-B4B0-116FA1915C3D}|ApplicationLayer\\Restaurant Table Booking.Application.csproj|d:\\restaurant table booking (3)\\restaurant table booking\\applicationlayer\\dtos\\authdto\\requestdtos\\changepasswordrequestdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{05DD5A9B-FBBA-411D-B4B0-116FA1915C3D}|ApplicationLayer\\Restaurant Table Booking.Application.csproj|solutionrelative:applicationlayer\\dtos\\authdto\\requestdtos\\changepasswordrequestdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{ED4DBACE-AF98-43D9-B19D-BF541B423648}|Restaurant Table Booking Web Api\\Restaurant Table Booking Web Api.csproj|d:\\restaurant table booking (3)\\restaurant table booking\\restaurant table booking web api\\exceptionhandler\\globalexceptionhandler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{ED4DBACE-AF98-43D9-B19D-BF541B423648}|Restaurant Table Booking Web Api\\Restaurant Table Booking Web Api.csproj|solutionrelative:restaurant table booking web api\\exceptionhandler\\globalexceptionhandler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DD6603C0-36E4-4A29-B89C-73542FAFC399}|InfrastructureLayer\\Restaurant Table Booking.Infrastructure.csproj|d:\\restaurant table booking (3)\\restaurant table booking\\infrastructurelayer\\migrations\\20240803163108_initial.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DD6603C0-36E4-4A29-B89C-73542FAFC399}|InfrastructureLayer\\Restaurant Table Booking.Infrastructure.csproj|solutionrelative:infrastructurelayer\\migrations\\20240803163108_initial.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 51,
+              "Title": "20240803163108_Initial.cs",
+              "DocumentMoniker": "D:\\Restaurant Table Booking (3)\\Restaurant Table Booking\\InfrastructureLayer\\Migrations\\20240803163108_Initial.cs",
+              "RelativeDocumentMoniker": "InfrastructureLayer\\Migrations\\20240803163108_Initial.cs",
+              "ToolTip": "D:\\Restaurant Table Booking (3)\\Restaurant Table Booking\\InfrastructureLayer\\Migrations\\20240803163108_Initial.cs",
+              "RelativeToolTip": "InfrastructureLayer\\Migrations\\20240803163108_Initial.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-03T16:31:09.043Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "D:\\Restaurant Table Booking (3)\\Restaurant Table Booking\\Restaurant Table Booking Web Api\\appsettings.json",
+              "RelativeDocumentMoniker": "Restaurant Table Booking Web Api\\appsettings.json",
+              "ToolTip": "D:\\Restaurant Table Booking (3)\\Restaurant Table Booking\\Restaurant Table Booking Web Api\\appsettings.json",
+              "RelativeToolTip": "Restaurant Table Booking Web Api\\appsettings.json",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABEAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2024-08-03T16:29:05.564Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "RegisterRequestDto.cs",
+              "DocumentMoniker": "D:\\Restaurant Table Booking (3)\\Restaurant Table Booking\\ApplicationLayer\\DTOs\\AuthDto\\RequestDtos\\RegisterRequestDto.cs",
+              "RelativeDocumentMoniker": "ApplicationLayer\\DTOs\\AuthDto\\RequestDtos\\RegisterRequestDto.cs",
+              "ToolTip": "D:\\Restaurant Table Booking (3)\\Restaurant Table Booking\\ApplicationLayer\\DTOs\\AuthDto\\RequestDtos\\RegisterRequestDto.cs",
+              "RelativeToolTip": "ApplicationLayer\\DTOs\\AuthDto\\RequestDtos\\RegisterRequestDto.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAsAAAAsAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-03T05:30:31.164Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "AuthController.cs",
+              "DocumentMoniker": "D:\\Restaurant Table Booking (3)\\Restaurant Table Booking\\Restaurant Table Booking Web Api\\Controllers\\AuthController\\AuthController.cs",
+              "RelativeDocumentMoniker": "Restaurant Table Booking Web Api\\Controllers\\AuthController\\AuthController.cs",
+              "ToolTip": "D:\\Restaurant Table Booking (3)\\Restaurant Table Booking\\Restaurant Table Booking Web Api\\Controllers\\AuthController\\AuthController.cs",
+              "RelativeToolTip": "Restaurant Table Booking Web Api\\Controllers\\AuthController\\AuthController.cs",
+              "ViewState": "AQIAAAsAAAAAAAAAAAAQwB4AAAAOAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-12T10:13:30.129Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "IAuthRepository.cs",
+              "DocumentMoniker": "D:\\Restaurant Table Booking (3)\\Restaurant Table Booking\\ApplicationLayer\\Services\\IAuthService\\IAuthRepository.cs",
+              "RelativeDocumentMoniker": "ApplicationLayer\\Services\\IAuthService\\IAuthRepository.cs",
+              "ToolTip": "D:\\Restaurant Table Booking (3)\\Restaurant Table Booking\\ApplicationLayer\\Services\\IAuthService\\IAuthRepository.cs",
+              "RelativeToolTip": "ApplicationLayer\\Services\\IAuthService\\IAuthRepository.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAqwAoAAAApAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-15T04:15:57.634Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "AuthRepository.cs",
+              "DocumentMoniker": "D:\\Restaurant Table Booking (3)\\Restaurant Table Booking\\InfrastructureLayer\\AuthService\\AuthRepository.cs",
+              "RelativeDocumentMoniker": "InfrastructureLayer\\AuthService\\AuthRepository.cs",
+              "ToolTip": "D:\\Restaurant Table Booking (3)\\Restaurant Table Booking\\InfrastructureLayer\\AuthService\\AuthRepository.cs",
+              "RelativeToolTip": "InfrastructureLayer\\AuthService\\AuthRepository.cs",
+              "ViewState": "AQIAACIAAAAAAAAAAADwv0kAAABGAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-12T14:32:01.04Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "AuthDbContext.cs",
+              "DocumentMoniker": "D:\\Restaurant Table Booking (3)\\Restaurant Table Booking\\InfrastructureLayer\\Data\\AuthDbContext.cs",
+              "RelativeDocumentMoniker": "InfrastructureLayer\\Data\\AuthDbContext.cs",
+              "ToolTip": "D:\\Restaurant Table Booking (3)\\Restaurant Table Booking\\InfrastructureLayer\\Data\\AuthDbContext.cs",
+              "RelativeToolTip": "InfrastructureLayer\\Data\\AuthDbContext.cs",
+              "ViewState": "AQIAACwAAAAAAAAAAAAIwCEAAAAlAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-12T11:35:13.935Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\Restaurant Table Booking (3)\\Restaurant Table Booking\\Restaurant Table Booking Web Api\\Program.cs",
+              "RelativeDocumentMoniker": "Restaurant Table Booking Web Api\\Program.cs",
+              "ToolTip": "D:\\Restaurant Table Booking (3)\\Restaurant Table Booking\\Restaurant Table Booking Web Api\\Program.cs",
+              "RelativeToolTip": "Restaurant Table Booking Web Api\\Program.cs",
+              "ViewState": "AQIAAEUAAAAAAAAAAAAcwG0AAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-12T10:13:22.354Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "ApplicationUser.cs",
+              "DocumentMoniker": "D:\\Restaurant Table Booking (3)\\Restaurant Table Booking\\DomainLayer\\Entities\\IdentityDbUser\\ApplicationUser.cs",
+              "RelativeDocumentMoniker": "DomainLayer\\Entities\\IdentityDbUser\\ApplicationUser.cs",
+              "ToolTip": "D:\\Restaurant Table Booking (3)\\Restaurant Table Booking\\DomainLayer\\Entities\\IdentityDbUser\\ApplicationUser.cs",
+              "RelativeToolTip": "DomainLayer\\Entities\\IdentityDbUser\\ApplicationUser.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA0AAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-12T11:36:04.712Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "LoginResponseDto.cs",
+              "DocumentMoniker": "D:\\Restaurant Table Booking (3)\\Restaurant Table Booking\\ApplicationLayer\\DTOs\\AuthDto\\ResponseDtos\\LoginResponseDto.cs",
+              "RelativeDocumentMoniker": "ApplicationLayer\\DTOs\\AuthDto\\ResponseDtos\\LoginResponseDto.cs",
+              "ToolTip": "D:\\Restaurant Table Booking (3)\\Restaurant Table Booking\\ApplicationLayer\\DTOs\\AuthDto\\ResponseDtos\\LoginResponseDto.cs",
+              "RelativeToolTip": "ApplicationLayer\\DTOs\\AuthDto\\ResponseDtos\\LoginResponseDto.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAcAAAAaAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-15T04:13:41.845Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "IGenericRepository.cs",
+              "DocumentMoniker": "D:\\Restaurant Table Booking (3)\\Restaurant Table Booking\\ApplicationLayer\\IGeneric\\IGenericRepository.cs",
+              "RelativeDocumentMoniker": "ApplicationLayer\\IGeneric\\IGenericRepository.cs",
+              "ToolTip": "D:\\Restaurant Table Booking (3)\\Restaurant Table Booking\\ApplicationLayer\\IGeneric\\IGenericRepository.cs",
+              "RelativeToolTip": "ApplicationLayer\\IGeneric\\IGenericRepository.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAqwA8AAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-15T09:57:14.607Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "GetAllBookingQueryHandler.cs",
+              "DocumentMoniker": "D:\\Restaurant Table Booking (3)\\Restaurant Table Booking\\ApplicationLayer\\Features\\TableBookingFeature\\Queries\\GetAll\\GetAllBookingQueryHandler.cs",
+              "RelativeDocumentMoniker": "ApplicationLayer\\Features\\TableBookingFeature\\Queries\\GetAll\\GetAllBookingQueryHandler.cs",
+              "ToolTip": "D:\\Restaurant Table Booking (3)\\Restaurant Table Booking\\ApplicationLayer\\Features\\TableBookingFeature\\Queries\\GetAll\\GetAllBookingQueryHandler.cs",
+              "RelativeToolTip": "ApplicationLayer\\Features\\TableBookingFeature\\Queries\\GetAll\\GetAllBookingQueryHandler.cs",
+              "ViewState": "AQIAABAAAAAAAAAAAAA1wC8AAABXAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-15T04:15:26.794Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "GetAllBookingQuery.cs",
+              "DocumentMoniker": "D:\\Restaurant Table Booking (3)\\Restaurant Table Booking\\ApplicationLayer\\Features\\TableBookingFeature\\Queries\\GetAll\\GetAllBookingQuery.cs",
+              "RelativeDocumentMoniker": "ApplicationLayer\\Features\\TableBookingFeature\\Queries\\GetAll\\GetAllBookingQuery.cs",
+              "ToolTip": "D:\\Restaurant Table Booking (3)\\Restaurant Table Booking\\ApplicationLayer\\Features\\TableBookingFeature\\Queries\\GetAll\\GetAllBookingQuery.cs",
+              "RelativeToolTip": "ApplicationLayer\\Features\\TableBookingFeature\\Queries\\GetAll\\GetAllBookingQuery.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAUAAABIAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-15T04:15:24.18Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "AutoMapperProfiles.cs",
+              "DocumentMoniker": "D:\\Restaurant Table Booking (3)\\Restaurant Table Booking\\ApplicationLayer\\Mappings\\AutoMapperProfiles.cs",
+              "RelativeDocumentMoniker": "ApplicationLayer\\Mappings\\AutoMapperProfiles.cs",
+              "ToolTip": "D:\\Restaurant Table Booking (3)\\Restaurant Table Booking\\ApplicationLayer\\Mappings\\AutoMapperProfiles.cs",
+              "RelativeToolTip": "ApplicationLayer\\Mappings\\AutoMapperProfiles.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABgAAAABAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-15T04:15:50.468Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "ITableBookingRepository.cs",
+              "DocumentMoniker": "D:\\Restaurant Table Booking (3)\\Restaurant Table Booking\\ApplicationLayer\\Services\\ITableBookingService\\ITableBookingRepository.cs",
+              "RelativeDocumentMoniker": "ApplicationLayer\\Services\\ITableBookingService\\ITableBookingRepository.cs",
+              "ToolTip": "D:\\Restaurant Table Booking (3)\\Restaurant Table Booking\\ApplicationLayer\\Services\\ITableBookingService\\ITableBookingRepository.cs",
+              "RelativeToolTip": "ApplicationLayer\\Services\\ITableBookingService\\ITableBookingRepository.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAUAAAAsAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-12T10:49:09.824Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "TableBookingController.cs",
+              "DocumentMoniker": "D:\\Restaurant Table Booking (3)\\Restaurant Table Booking\\Restaurant Table Booking Web Api\\Controllers\\TableBookingController\\TableBookingController.cs",
+              "RelativeDocumentMoniker": "Restaurant Table Booking Web Api\\Controllers\\TableBookingController\\TableBookingController.cs",
+              "ToolTip": "D:\\Restaurant Table Booking (3)\\Restaurant Table Booking\\Restaurant Table Booking Web Api\\Controllers\\TableBookingController\\TableBookingController.cs",
+              "RelativeToolTip": "Restaurant Table Booking Web Api\\Controllers\\TableBookingController\\TableBookingController.cs",
+              "ViewState": "AQIAAD8AAAAAAAAAAAAowFIAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-12T10:13:35.313Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "IUnitOfWorkRepository.cs",
+              "DocumentMoniker": "D:\\Restaurant Table Booking (3)\\Restaurant Table Booking\\ApplicationLayer\\IUnitOfWork\\IUnitOfWorkRepository.cs",
+              "RelativeDocumentMoniker": "ApplicationLayer\\IUnitOfWork\\IUnitOfWorkRepository.cs",
+              "ToolTip": "D:\\Restaurant Table Booking (3)\\Restaurant Table Booking\\ApplicationLayer\\IUnitOfWork\\IUnitOfWorkRepository.cs",
+              "RelativeToolTip": "ApplicationLayer\\IUnitOfWork\\IUnitOfWorkRepository.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAqwAYAAAAfAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-12T11:26:15.834Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "AddBookingCommandHandler.cs",
+              "DocumentMoniker": "D:\\Restaurant Table Booking (3)\\Restaurant Table Booking\\ApplicationLayer\\Features\\TableBookingFeature\\Commands\\Create\\AddBookingCommandHandler.cs",
+              "RelativeDocumentMoniker": "ApplicationLayer\\Features\\TableBookingFeature\\Commands\\Create\\AddBookingCommandHandler.cs",
+              "ToolTip": "D:\\Restaurant Table Booking (3)\\Restaurant Table Booking\\ApplicationLayer\\Features\\TableBookingFeature\\Commands\\Create\\AddBookingCommandHandler.cs",
+              "RelativeToolTip": "ApplicationLayer\\Features\\TableBookingFeature\\Commands\\Create\\AddBookingCommandHandler.cs",
+              "ViewState": "AQIAAAkAAAAAAAAAAAAAAAwAAAAuAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-12T10:34:00.916Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
+              "Title": "AddBookingValidator.cs",
+              "DocumentMoniker": "D:\\Restaurant Table Booking (3)\\Restaurant Table Booking\\ApplicationLayer\\Validations\\AddBookingValidator.cs",
+              "RelativeDocumentMoniker": "ApplicationLayer\\Validations\\AddBookingValidator.cs",
+              "ToolTip": "D:\\Restaurant Table Booking (3)\\Restaurant Table Booking\\ApplicationLayer\\Validations\\AddBookingValidator.cs",
+              "RelativeToolTip": "ApplicationLayer\\Validations\\AddBookingValidator.cs",
+              "ViewState": "AQIAAAsAAAAAAAAAAAAxwBsAAABDAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-15T09:57:40.496Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 18,
+              "Title": "GenericRepository.cs",
+              "DocumentMoniker": "D:\\Restaurant Table Booking (3)\\Restaurant Table Booking\\InfrastructureLayer\\GenericRepository\\GenericRepository.cs",
+              "RelativeDocumentMoniker": "InfrastructureLayer\\GenericRepository\\GenericRepository.cs",
+              "ToolTip": "D:\\Restaurant Table Booking (3)\\Restaurant Table Booking\\InfrastructureLayer\\GenericRepository\\GenericRepository.cs",
+              "RelativeToolTip": "InfrastructureLayer\\GenericRepository\\GenericRepository.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABEAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-12T11:35:00.663Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 19,
+              "Title": "TableBookingRepository.cs",
+              "DocumentMoniker": "D:\\Restaurant Table Booking (3)\\Restaurant Table Booking\\InfrastructureLayer\\Repositories\\TableBookingRepository.cs",
+              "RelativeDocumentMoniker": "InfrastructureLayer\\Repositories\\TableBookingRepository.cs",
+              "ToolTip": "D:\\Restaurant Table Booking (3)\\Restaurant Table Booking\\InfrastructureLayer\\Repositories\\TableBookingRepository.cs",
+              "RelativeToolTip": "InfrastructureLayer\\Repositories\\TableBookingRepository.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAoAAAAlAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-12T10:49:25.084Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 20,
+              "Title": "UnitOfWorkRepository.cs",
+              "DocumentMoniker": "D:\\Restaurant Table Booking (3)\\Restaurant Table Booking\\InfrastructureLayer\\UnitOfWork\\UnitOfWorkRepository.cs",
+              "RelativeDocumentMoniker": "InfrastructureLayer\\UnitOfWork\\UnitOfWorkRepository.cs",
+              "ToolTip": "D:\\Restaurant Table Booking (3)\\Restaurant Table Booking\\InfrastructureLayer\\UnitOfWork\\UnitOfWorkRepository.cs",
+              "RelativeToolTip": "InfrastructureLayer\\UnitOfWork\\UnitOfWorkRepository.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABUAAAAlAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-12T11:28:05.753Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 21,
+              "Title": "TableBookingDetails.cs",
+              "DocumentMoniker": "D:\\Restaurant Table Booking (3)\\Restaurant Table Booking\\DomainLayer\\Entities\\TableBookingDbEntity\\TableBookingDetails.cs",
+              "RelativeDocumentMoniker": "DomainLayer\\Entities\\TableBookingDbEntity\\TableBookingDetails.cs",
+              "ToolTip": "D:\\Restaurant Table Booking (3)\\Restaurant Table Booking\\DomainLayer\\Entities\\TableBookingDbEntity\\TableBookingDetails.cs",
+              "RelativeToolTip": "DomainLayer\\Entities\\TableBookingDbEntity\\TableBookingDetails.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-15T04:16:33.178Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 22,
+              "Title": "AddBookingCommand.cs",
+              "DocumentMoniker": "D:\\Restaurant Table Booking (3)\\Restaurant Table Booking\\ApplicationLayer\\Features\\TableBookingFeature\\Commands\\Create\\AddBookingCommand.cs",
+              "RelativeDocumentMoniker": "ApplicationLayer\\Features\\TableBookingFeature\\Commands\\Create\\AddBookingCommand.cs",
+              "ToolTip": "D:\\Restaurant Table Booking (3)\\Restaurant Table Booking\\ApplicationLayer\\Features\\TableBookingFeature\\Commands\\Create\\AddBookingCommand.cs",
+              "RelativeToolTip": "ApplicationLayer\\Features\\TableBookingFeature\\Commands\\Create\\AddBookingCommand.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABQAAAApAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-12T10:50:56.733Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 23,
+              "Title": "UpdateTableBookingRequestDto.cs",
+              "DocumentMoniker": "D:\\Restaurant Table Booking (3)\\Restaurant Table Booking\\ApplicationLayer\\DTOs\\TableBookingDtos\\RequestDto\\UpdateTableBookingRequestDto.cs",
+              "RelativeDocumentMoniker": "ApplicationLayer\\DTOs\\TableBookingDtos\\RequestDto\\UpdateTableBookingRequestDto.cs",
+              "ToolTip": "D:\\Restaurant Table Booking (3)\\Restaurant Table Booking\\ApplicationLayer\\DTOs\\TableBookingDtos\\RequestDto\\UpdateTableBookingRequestDto.cs",
+              "RelativeToolTip": "ApplicationLayer\\DTOs\\TableBookingDtos\\RequestDto\\UpdateTableBookingRequestDto.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAqwAYAAAAtAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-13T03:59:45.975Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 24,
+              "Title": "UpdateBookingValidator.cs",
+              "DocumentMoniker": "D:\\Restaurant Table Booking (3)\\Restaurant Table Booking\\ApplicationLayer\\Validations\\UpdateBookingValidator.cs",
+              "RelativeDocumentMoniker": "ApplicationLayer\\Validations\\UpdateBookingValidator.cs",
+              "ToolTip": "D:\\Restaurant Table Booking (3)\\Restaurant Table Booking\\ApplicationLayer\\Validations\\UpdateBookingValidator.cs",
+              "RelativeToolTip": "ApplicationLayer\\Validations\\UpdateBookingValidator.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAkAAAAIAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-12T14:52:27.41Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 26,
+              "Title": "UpdateTableBookingCommandHandler.cs",
+              "DocumentMoniker": "D:\\Restaurant Table Booking (3)\\Restaurant Table Booking\\ApplicationLayer\\Features\\TableBookingFeature\\Commands\\Update\\UpdateTableBookingCommandHandler.cs",
+              "RelativeDocumentMoniker": "ApplicationLayer\\Features\\TableBookingFeature\\Commands\\Update\\UpdateTableBookingCommandHandler.cs",
+              "ToolTip": "D:\\Restaurant Table Booking (3)\\Restaurant Table Booking\\ApplicationLayer\\Features\\TableBookingFeature\\Commands\\Update\\UpdateTableBookingCommandHandler.cs",
+              "RelativeToolTip": "ApplicationLayer\\Features\\TableBookingFeature\\Commands\\Update\\UpdateTableBookingCommandHandler.cs",
+              "ViewState": "AQIAAAYAAAAAAAAAAAAAAB0AAAAyAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-12T12:06:46.037Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 27,
+              "Title": "AddBookingRequestDto.cs",
+              "DocumentMoniker": "D:\\Restaurant Table Booking (3)\\Restaurant Table Booking\\ApplicationLayer\\DTOs\\TableBookingDtos\\RequestDto\\AddBookingRequestDto.cs",
+              "RelativeDocumentMoniker": "ApplicationLayer\\DTOs\\TableBookingDtos\\RequestDto\\AddBookingRequestDto.cs",
+              "ToolTip": "D:\\Restaurant Table Booking (3)\\Restaurant Table Booking\\ApplicationLayer\\DTOs\\TableBookingDtos\\RequestDto\\AddBookingRequestDto.cs",
+              "RelativeToolTip": "ApplicationLayer\\DTOs\\TableBookingDtos\\RequestDto\\AddBookingRequestDto.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABEAAAApAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-13T03:59:32.134Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 28,
+              "Title": "PaymentModeEnum.cs",
+              "DocumentMoniker": "D:\\Restaurant Table Booking (3)\\Restaurant Table Booking\\Shared\\Enums\\PaymentModeEnum.cs",
+              "RelativeDocumentMoniker": "Shared\\Enums\\PaymentModeEnum.cs",
+              "ToolTip": "D:\\Restaurant Table Booking (3)\\Restaurant Table Booking\\Shared\\Enums\\PaymentModeEnum.cs",
+              "RelativeToolTip": "Shared\\Enums\\PaymentModeEnum.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-26T10:38:02.442Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 29,
+              "Title": "BookingTimeEnum.cs",
+              "DocumentMoniker": "D:\\Restaurant Table Booking (3)\\Restaurant Table Booking\\Shared\\Enums\\BookingTimeEnum.cs",
+              "RelativeDocumentMoniker": "Shared\\Enums\\BookingTimeEnum.cs",
+              "ToolTip": "D:\\Restaurant Table Booking (3)\\Restaurant Table Booking\\Shared\\Enums\\BookingTimeEnum.cs",
+              "RelativeToolTip": "Shared\\Enums\\BookingTimeEnum.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-26T10:37:19.415Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 25,
+              "Title": "DeleteBookingCommandHandler.cs",
+              "DocumentMoniker": "D:\\Restaurant Table Booking (3)\\Restaurant Table Booking\\ApplicationLayer\\Features\\TableBookingFeature\\Commands\\Delete\\DeleteBookingCommandHandler.cs",
+              "RelativeDocumentMoniker": "ApplicationLayer\\Features\\TableBookingFeature\\Commands\\Delete\\DeleteBookingCommandHandler.cs",
+              "ToolTip": "D:\\Restaurant Table Booking (3)\\Restaurant Table Booking\\ApplicationLayer\\Features\\TableBookingFeature\\Commands\\Delete\\DeleteBookingCommandHandler.cs",
+              "RelativeToolTip": "ApplicationLayer\\Features\\TableBookingFeature\\Commands\\Delete\\DeleteBookingCommandHandler.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA8AAAAIAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-12T12:06:17.981Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 30,
+              "Title": "OccassionEnum.cs",
+              "DocumentMoniker": "D:\\Restaurant Table Booking (3)\\Restaurant Table Booking\\Shared\\Enums\\OccassionEnum.cs",
+              "RelativeDocumentMoniker": "Shared\\Enums\\OccassionEnum.cs",
+              "ToolTip": "D:\\Restaurant Table Booking (3)\\Restaurant Table Booking\\Shared\\Enums\\OccassionEnum.cs",
+              "RelativeToolTip": "Shared\\Enums\\OccassionEnum.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAQAAAAhAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-16T06:30:32.599Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 31,
+              "Title": "BaseSpecification.cs",
+              "DocumentMoniker": "D:\\Restaurant Table Booking (3)\\Restaurant Table Booking\\ApplicationLayer\\Specification\\BaseSpecification.cs",
+              "RelativeDocumentMoniker": "ApplicationLayer\\Specification\\BaseSpecification.cs",
+              "ToolTip": "D:\\Restaurant Table Booking (3)\\Restaurant Table Booking\\ApplicationLayer\\Specification\\BaseSpecification.cs",
+              "RelativeToolTip": "ApplicationLayer\\Specification\\BaseSpecification.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABMAAAAYAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-15T13:58:33.462Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 32,
+              "Title": "ISpecification.cs",
+              "DocumentMoniker": "D:\\Restaurant Table Booking (3)\\Restaurant Table Booking\\ApplicationLayer\\ISpecification\\ISpecification.cs",
+              "RelativeDocumentMoniker": "ApplicationLayer\\ISpecification\\ISpecification.cs",
+              "ToolTip": "D:\\Restaurant Table Booking (3)\\Restaurant Table Booking\\ApplicationLayer\\ISpecification\\ISpecification.cs",
+              "RelativeToolTip": "ApplicationLayer\\ISpecification\\ISpecification.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAcAAAAnAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-15T17:57:39.177Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 33,
+              "Title": "GetBookingResponseDto.cs",
+              "DocumentMoniker": "D:\\Restaurant Table Booking (3)\\Restaurant Table Booking\\ApplicationLayer\\DTOs\\TableBookingDtos\\ResponseDto\\GetBookingResponseDto.cs",
+              "RelativeDocumentMoniker": "ApplicationLayer\\DTOs\\TableBookingDtos\\ResponseDto\\GetBookingResponseDto.cs",
+              "ToolTip": "D:\\Restaurant Table Booking (3)\\Restaurant Table Booking\\ApplicationLayer\\DTOs\\TableBookingDtos\\ResponseDto\\GetBookingResponseDto.cs",
+              "RelativeToolTip": "ApplicationLayer\\DTOs\\TableBookingDtos\\ResponseDto\\GetBookingResponseDto.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAoAAAAmAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-15T04:14:00.434Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 34,
+              "Title": "Restaurant Table Booking Web Api.http",
+              "DocumentMoniker": "D:\\Restaurant Table Booking (3)\\Restaurant Table Booking\\Restaurant Table Booking Web Api\\Restaurant Table Booking Web Api.http",
+              "RelativeDocumentMoniker": "Restaurant Table Booking Web Api\\Restaurant Table Booking Web Api.http",
+              "ToolTip": "D:\\Restaurant Table Booking (3)\\Restaurant Table Booking\\Restaurant Table Booking Web Api\\Restaurant Table Booking Web Api.http",
+              "RelativeToolTip": "Restaurant Table Booking Web Api\\Restaurant Table Booking Web Api.http",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAwAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003502|",
+              "WhenOpened": "2024-07-26T10:06:16.573Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 35,
+              "Title": "BookingByNameSpec.cs",
+              "DocumentMoniker": "D:\\Restaurant Table Booking (3)\\Restaurant Table Booking\\ApplicationLayer\\Specification\\BookingByNameSpec.cs",
+              "RelativeDocumentMoniker": "ApplicationLayer\\Specification\\BookingByNameSpec.cs",
+              "ToolTip": "D:\\Restaurant Table Booking (3)\\Restaurant Table Booking\\ApplicationLayer\\Specification\\BookingByNameSpec.cs",
+              "RelativeToolTip": "ApplicationLayer\\Specification\\BookingByNameSpec.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABYAAABBAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-15T13:58:57.564Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 36,
+              "Title": "SpecificationEvaluator.cs",
+              "DocumentMoniker": "D:\\Restaurant Table Booking (3)\\Restaurant Table Booking\\InfrastructureLayer\\SpecificationEntities\\SpecificationEvaluator.cs",
+              "RelativeDocumentMoniker": "InfrastructureLayer\\SpecificationEntities\\SpecificationEvaluator.cs",
+              "ToolTip": "D:\\Restaurant Table Booking (3)\\Restaurant Table Booking\\InfrastructureLayer\\SpecificationEntities\\SpecificationEvaluator.cs",
+              "RelativeToolTip": "InfrastructureLayer\\SpecificationEntities\\SpecificationEvaluator.cs",
+              "ViewState": "AQIAAAMAAAAAAAAAAAAqwBgAAAA+AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-15T12:29:29.285Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 37,
+              "Title": "QueryRequestDto.cs",
+              "DocumentMoniker": "D:\\Restaurant Table Booking (3)\\Restaurant Table Booking\\ApplicationLayer\\DTOs\\AuthDto\\RequestDtos\\QueryRequestDto.cs",
+              "RelativeDocumentMoniker": "ApplicationLayer\\DTOs\\AuthDto\\RequestDtos\\QueryRequestDto.cs",
+              "ToolTip": "D:\\Restaurant Table Booking (3)\\Restaurant Table Booking\\ApplicationLayer\\DTOs\\AuthDto\\RequestDtos\\QueryRequestDto.cs",
+              "RelativeToolTip": "ApplicationLayer\\DTOs\\AuthDto\\RequestDtos\\QueryRequestDto.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAqwAIAAAAgAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-15T04:13:33.549Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 38,
+              "Title": "UpdateTableBookingCommand.cs",
+              "DocumentMoniker": "D:\\Restaurant Table Booking (3)\\Restaurant Table Booking\\ApplicationLayer\\Features\\TableBookingFeature\\Commands\\Update\\UpdateTableBookingCommand.cs",
+              "RelativeDocumentMoniker": "ApplicationLayer\\Features\\TableBookingFeature\\Commands\\Update\\UpdateTableBookingCommand.cs",
+              "ToolTip": "D:\\Restaurant Table Booking (3)\\Restaurant Table Booking\\ApplicationLayer\\Features\\TableBookingFeature\\Commands\\Update\\UpdateTableBookingCommand.cs",
+              "RelativeToolTip": "ApplicationLayer\\Features\\TableBookingFeature\\Commands\\Update\\UpdateTableBookingCommand.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABcAAAA0AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-15T04:15:13.133Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 40,
+              "Title": "MailSenderRepository.cs",
+              "DocumentMoniker": "D:\\Restaurant Table Booking (3)\\Restaurant Table Booking\\InfrastructureLayer\\MailSend\\MailSenderRepository.cs",
+              "RelativeDocumentMoniker": "InfrastructureLayer\\MailSend\\MailSenderRepository.cs",
+              "ToolTip": "D:\\Restaurant Table Booking (3)\\Restaurant Table Booking\\InfrastructureLayer\\MailSend\\MailSenderRepository.cs",
+              "RelativeToolTip": "InfrastructureLayer\\MailSend\\MailSenderRepository.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABcAAAAmAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-12T10:17:08.135Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 39,
+              "Title": "UserConstants.cs",
+              "DocumentMoniker": "D:\\Restaurant Table Booking (3)\\Restaurant Table Booking\\Shared\\Constants\\UserConstants.cs",
+              "RelativeDocumentMoniker": "Shared\\Constants\\UserConstants.cs",
+              "ToolTip": "D:\\Restaurant Table Booking (3)\\Restaurant Table Booking\\Shared\\Constants\\UserConstants.cs",
+              "RelativeToolTip": "Shared\\Constants\\UserConstants.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAB8AAABVAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-13T07:05:22.837Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 41,
+              "Title": "IMailSender.cs",
+              "DocumentMoniker": "D:\\Restaurant Table Booking (3)\\Restaurant Table Booking\\ApplicationLayer\\Services\\IMailSendService\\IMailSender.cs",
+              "RelativeDocumentMoniker": "ApplicationLayer\\Services\\IMailSendService\\IMailSender.cs",
+              "ToolTip": "D:\\Restaurant Table Booking (3)\\Restaurant Table Booking\\ApplicationLayer\\Services\\IMailSendService\\IMailSender.cs",
+              "RelativeToolTip": "ApplicationLayer\\Services\\IMailSendService\\IMailSender.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAcAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-15T04:16:02.137Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 42,
+              "Title": "DeleteBookingCommand.cs",
+              "DocumentMoniker": "D:\\Restaurant Table Booking (3)\\Restaurant Table Booking\\ApplicationLayer\\Features\\TableBookingFeature\\Commands\\Delete\\DeleteBookingCommand.cs",
+              "RelativeDocumentMoniker": "ApplicationLayer\\Features\\TableBookingFeature\\Commands\\Delete\\DeleteBookingCommand.cs",
+              "ToolTip": "D:\\Restaurant Table Booking (3)\\Restaurant Table Booking\\ApplicationLayer\\Features\\TableBookingFeature\\Commands\\Delete\\DeleteBookingCommand.cs",
+              "RelativeToolTip": "ApplicationLayer\\Features\\TableBookingFeature\\Commands\\Delete\\DeleteBookingCommand.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-15T04:15:00.522Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 43,
+              "Title": "GetTableBookingDataByIdQueryHandler.cs",
+              "DocumentMoniker": "D:\\Restaurant Table Booking (3)\\Restaurant Table Booking\\ApplicationLayer\\Features\\TableBookingFeature\\Queries\\GetById\\GetTableBookingDataByIdQueryHandler.cs",
+              "RelativeDocumentMoniker": "ApplicationLayer\\Features\\TableBookingFeature\\Queries\\GetById\\GetTableBookingDataByIdQueryHandler.cs",
+              "ToolTip": "D:\\Restaurant Table Booking (3)\\Restaurant Table Booking\\ApplicationLayer\\Features\\TableBookingFeature\\Queries\\GetById\\GetTableBookingDataByIdQueryHandler.cs",
+              "RelativeToolTip": "ApplicationLayer\\Features\\TableBookingFeature\\Queries\\GetById\\GetTableBookingDataByIdQueryHandler.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABgAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-15T04:15:36.731Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 44,
+              "Title": "QueryFilterValidation.cs",
+              "DocumentMoniker": "D:\\Restaurant Table Booking (3)\\Restaurant Table Booking\\ApplicationLayer\\Validations\\QueryFilterValidation.cs",
+              "RelativeDocumentMoniker": "ApplicationLayer\\Validations\\QueryFilterValidation.cs",
+              "ToolTip": "D:\\Restaurant Table Booking (3)\\Restaurant Table Booking\\ApplicationLayer\\Validations\\QueryFilterValidation.cs",
+              "RelativeToolTip": "ApplicationLayer\\Validations\\QueryFilterValidation.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-15T04:16:17.213Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 45,
+              "Title": "GetTableBookingDataByIdQuery.cs",
+              "DocumentMoniker": "D:\\Restaurant Table Booking (3)\\Restaurant Table Booking\\ApplicationLayer\\Features\\TableBookingFeature\\Queries\\GetById\\GetTableBookingDataByIdQuery.cs",
+              "RelativeDocumentMoniker": "ApplicationLayer\\Features\\TableBookingFeature\\Queries\\GetById\\GetTableBookingDataByIdQuery.cs",
+              "ToolTip": "D:\\Restaurant Table Booking (3)\\Restaurant Table Booking\\ApplicationLayer\\Features\\TableBookingFeature\\Queries\\GetById\\GetTableBookingDataByIdQuery.cs",
+              "RelativeToolTip": "ApplicationLayer\\Features\\TableBookingFeature\\Queries\\GetById\\GetTableBookingDataByIdQuery.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-15T04:15:34.221Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 46,
+              "Title": "RefreshTokenRequestDto.cs",
+              "DocumentMoniker": "D:\\Restaurant Table Booking (3)\\Restaurant Table Booking\\ApplicationLayer\\DTOs\\AuthDto\\RequestDtos\\RefreshTokenRequestDto.cs",
+              "RelativeDocumentMoniker": "ApplicationLayer\\DTOs\\AuthDto\\RequestDtos\\RefreshTokenRequestDto.cs",
+              "ToolTip": "D:\\Restaurant Table Booking (3)\\Restaurant Table Booking\\ApplicationLayer\\DTOs\\AuthDto\\RequestDtos\\RefreshTokenRequestDto.cs",
+              "RelativeToolTip": "ApplicationLayer\\DTOs\\AuthDto\\RequestDtos\\RefreshTokenRequestDto.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-15T04:13:37.723Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 47,
+              "Title": "LogoutRequestDto.cs",
+              "DocumentMoniker": "D:\\Restaurant Table Booking (3)\\Restaurant Table Booking\\ApplicationLayer\\DTOs\\AuthDto\\RequestDtos\\LogoutRequestDto.cs",
+              "RelativeDocumentMoniker": "ApplicationLayer\\DTOs\\AuthDto\\RequestDtos\\LogoutRequestDto.cs",
+              "ToolTip": "D:\\Restaurant Table Booking (3)\\Restaurant Table Booking\\ApplicationLayer\\DTOs\\AuthDto\\RequestDtos\\LogoutRequestDto.cs",
+              "RelativeToolTip": "ApplicationLayer\\DTOs\\AuthDto\\RequestDtos\\LogoutRequestDto.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-15T04:13:31.111Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 48,
+              "Title": "LoginRequestDto.cs",
+              "DocumentMoniker": "D:\\Restaurant Table Booking (3)\\Restaurant Table Booking\\ApplicationLayer\\DTOs\\AuthDto\\RequestDtos\\LoginRequestDto.cs",
+              "RelativeDocumentMoniker": "ApplicationLayer\\DTOs\\AuthDto\\RequestDtos\\LoginRequestDto.cs",
+              "ToolTip": "D:\\Restaurant Table Booking (3)\\Restaurant Table Booking\\ApplicationLayer\\DTOs\\AuthDto\\RequestDtos\\LoginRequestDto.cs",
+              "RelativeToolTip": "ApplicationLayer\\DTOs\\AuthDto\\RequestDtos\\LoginRequestDto.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-15T04:13:28.367Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 49,
+              "Title": "ChangePasswordRequestDto.cs",
+              "DocumentMoniker": "D:\\Restaurant Table Booking (3)\\Restaurant Table Booking\\ApplicationLayer\\DTOs\\AuthDto\\RequestDtos\\ChangePasswordRequestDto.cs",
+              "RelativeDocumentMoniker": "ApplicationLayer\\DTOs\\AuthDto\\RequestDtos\\ChangePasswordRequestDto.cs",
+              "ToolTip": "D:\\Restaurant Table Booking (3)\\Restaurant Table Booking\\ApplicationLayer\\DTOs\\AuthDto\\RequestDtos\\ChangePasswordRequestDto.cs",
+              "RelativeToolTip": "ApplicationLayer\\DTOs\\AuthDto\\RequestDtos\\ChangePasswordRequestDto.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-15T04:13:25.134Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 50,
+              "Title": "GlobalExceptionHandler.cs",
+              "DocumentMoniker": "D:\\Restaurant Table Booking (3)\\Restaurant Table Booking\\Restaurant Table Booking Web Api\\ExceptionHandler\\GlobalExceptionHandler.cs",
+              "RelativeDocumentMoniker": "Restaurant Table Booking Web Api\\ExceptionHandler\\GlobalExceptionHandler.cs",
+              "ToolTip": "D:\\Restaurant Table Booking (3)\\Restaurant Table Booking\\Restaurant Table Booking Web Api\\ExceptionHandler\\GlobalExceptionHandler.cs",
+              "RelativeToolTip": "Restaurant Table Booking Web Api\\ExceptionHandler\\GlobalExceptionHandler.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABkAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-15T04:12:51.962Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

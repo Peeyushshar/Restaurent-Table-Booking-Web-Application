@@ -1,0 +1,24 @@
+{
+  "version": 2,
+  "dgSpecHash": "ts1sWNeMa2ec2v4MmDEKv0W27SbZp9mJnEgoYVJmKj6M0EIa3i5RM+S4flwBfSVUbdoj3jfU/ZxF8TnsxmLsMA==",
+  "success": true,
+  "projectFilePath": "D:\\Restaurant Table Booking (3)\\Restaurant Table Booking\\ApplicationLayer\\Restaurant Table Booking.Application.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\PEEYUSH SHARMA\\.nuget\\packages\\automapper\\13.0.1\\automapper.13.0.1.nupkg.sha512",
+    "C:\\Users\\PEEYUSH SHARMA\\.nuget\\packages\\fluentvalidation\\11.9.2\\fluentvalidation.11.9.2.nupkg.sha512",
+    "C:\\Users\\PEEYUSH SHARMA\\.nuget\\packages\\mediatr\\12.3.0\\mediatr.12.3.0.nupkg.sha512",
+    "C:\\Users\\PEEYUSH SHARMA\\.nuget\\packages\\mediatr.contracts\\2.0.1\\mediatr.contracts.2.0.1.nupkg.sha512",
+    "C:\\Users\\PEEYUSH SHARMA\\.nuget\\packages\\microsoft.aspnetcore.cryptography.internal\\8.0.7\\microsoft.aspnetcore.cryptography.internal.8.0.7.nupkg.sha512",
+    "C:\\Users\\PEEYUSH SHARMA\\.nuget\\packages\\microsoft.aspnetcore.cryptography.keyderivation\\8.0.7\\microsoft.aspnetcore.cryptography.keyderivation.8.0.7.nupkg.sha512",
+    "C:\\Users\\PEEYUSH SHARMA\\.nuget\\packages\\microsoft.extensions.caching.abstractions\\8.0.0\\microsoft.extensions.caching.abstractions.8.0.0.nupkg.sha512",
+    "C:\\Users\\PEEYUSH SHARMA\\.nuget\\packages\\microsoft.extensions.dependencyinjection\\8.0.0\\microsoft.extensions.dependencyinjection.8.0.0.nupkg.sha512",
+    "C:\\Users\\PEEYUSH SHARMA\\.nuget\\packages\\microsoft.extensions.dependencyinjection.abstractions\\8.0.0\\microsoft.extensions.dependencyinjection.abstractions.8.0.0.nupkg.sha512",
+    "C:\\Users\\PEEYUSH SHARMA\\.nuget\\packages\\microsoft.extensions.identity.core\\8.0.7\\microsoft.extensions.identity.core.8.0.7.nupkg.sha512",
+    "C:\\Users\\PEEYUSH SHARMA\\.nuget\\packages\\microsoft.extensions.identity.stores\\8.0.7\\microsoft.extensions.identity.stores.8.0.7.nupkg.sha512",
+    "C:\\Users\\PEEYUSH SHARMA\\.nuget\\packages\\microsoft.extensions.logging\\8.0.0\\microsoft.extensions.logging.8.0.0.nupkg.sha512",
+    "C:\\Users\\PEEYUSH SHARMA\\.nuget\\packages\\microsoft.extensions.logging.abstractions\\8.0.0\\microsoft.extensions.logging.abstractions.8.0.0.nupkg.sha512",
+    "C:\\Users\\PEEYUSH SHARMA\\.nuget\\packages\\microsoft.extensions.options\\8.0.2\\microsoft.extensions.options.8.0.2.nupkg.sha512",
+    "C:\\Users\\PEEYUSH SHARMA\\.nuget\\packages\\microsoft.extensions.primitives\\8.0.0\\microsoft.extensions.primitives.8.0.0.nupkg.sha512"
+  ],
+  "logs": []
+}
