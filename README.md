@@ -9,7 +9,7 @@ The Restaurant Table Booking Web Application is designed to provide a seamless t
  3. Clean Architecture: The application is built following Clean Architecture principles, ensuring separation of concerns and a modular structure.
  4. Entity Framework Core: Utilizes EF Core for database operations, providing an efficient and robust data management system.
 
-##Technologies Used
+## Technologies Used
 
  1. ASP.NET Core Web API: Backend framework for building RESTful services.
  2. Entity Framework Core: ORM for database management.
