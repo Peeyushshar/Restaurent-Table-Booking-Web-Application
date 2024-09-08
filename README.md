@@ -41,5 +41,5 @@ The Restaurant Table Booking Web Application is designed to provide a seamless t
 
 ## Usage
 
-  a. Access the API endpoints via tools like Postman or directly from your front-end application.
-  b. Integrate with a front-end for user-facing booking interfaces.
+  1. Access the API endpoints via tools like Postman or directly from your front-end application.
+  2. Integrate with a front-end for user-facing booking interfaces.
